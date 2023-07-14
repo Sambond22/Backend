@@ -1,0 +1,2 @@
+just use of require mongoose express 
+and connect db and server
