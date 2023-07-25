@@ -1,0 +1,5 @@
+it use mvc 
+module controler routes index config
+
+apply http method
+CRUD creat read update delete post get find({}) findbyId findbyIdandUpdate;
