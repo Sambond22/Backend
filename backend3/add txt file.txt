@@ -1,0 +1,8 @@
+collection 3 diff module(schema)
+3controler post like comment
+connection btw two module 
+use of save instead of create 
+use of push , pull , populate(id to doc file )=>to check all details of that object id.
+
+
+.
