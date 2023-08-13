@@ -1,0 +1,3 @@
+upload img / pdf / video or any other media file client to server
+and also connect cloudinary 
+cloudinary api key, cloud name, api secret all take from cloudinary website go to setting then acces key and cloud name on home then  dashboard
