@@ -1,0 +1,8 @@
+Authetification =>{signup: bcrypt.hash,
+		   login: bcrypt.compare then 
+		token genrate, cookie genrate
+		token fetch from token body, cookie , header
+		jwt.verify }
+authorization =>{isstudnet, isadmin}
+enum  use model
+router for protected routes
