@@ -7,3 +7,7 @@ cloudinary api key, cloud name, api secret all take from cloudinary website go t
 add email with the help of nodemailer 
 npm i nodemailer 
 post pre middleware 
+
+
+
+gmail se security key mangment => securtiy =>2 step verification krna he otp insert turn on 2stp verification => then same es he page  pe 2 stp verifi ko click krna the scrolll down => app pasword => drop down give other => any app name genrate => copy that password
