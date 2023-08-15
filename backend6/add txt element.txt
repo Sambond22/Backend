@@ -1,7 +1,8 @@
 upload img / pdf / video or any other media file client to media server(clouinary)
 upload img , video , reduce the size of img with quality value
 and also connect cloudinary 
-cloudinary api key, cloud name, api secret all take from cloudinary website go to setting then acces key and cloud name on home then  dashboard
+cloudinary api key, cloud name, api secret all take from cloudinary website go to setting then acces key
+and cloud name on home then  dashboard
 
 
 add email with the help of nodemailer 
@@ -10,4 +11,6 @@ post pre middleware
 
 
 
-gmail se security key mangment => securtiy =>2 step verification krna he otp insert turn on 2stp verification => then same es he page  pe 2 stp verifi ko click krna the scrolll down => app pasword => drop down give other => any app name genrate => copy that password
+gmail se security key mangment => securtiy =>2 step verification krna he otp insert turn on 2stp verification =>
+then same es he page  pe 2 stp verifi ko click krna the scrolll down => app pasword => drop down give other =>
+any app name genrate => copy that password
