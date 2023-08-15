@@ -1,0 +1,9 @@
+upload img / pdf / video or any other media file client to media server(clouinary)
+upload img , video , reduce the size of img with quality value
+and also connect cloudinary 
+cloudinary api key, cloud name, api secret all take from cloudinary website go to setting then acces key and cloud name on home then  dashboard
+
+
+add email with the help of nodemailer 
+npm i nodemailer 
+post pre middleware 
